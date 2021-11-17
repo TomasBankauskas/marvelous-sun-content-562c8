@@ -187,7 +187,7 @@ sections:
         textAlign: center
         margin:
           - mt-36
-          - mb-36
+          - mb-24
       text:
         textAlign: center
     action: /.netlify/functions/submission_created
