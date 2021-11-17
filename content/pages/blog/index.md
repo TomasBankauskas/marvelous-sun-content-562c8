@@ -9,7 +9,7 @@ sections:
       ## Experience it for yourself
     backgroundImage:
       type: ImageBlock
-      url: /images/bg.png
+      url: /images/BG.png
       altText: Product Marketing Manager Quote
     styles:
       self:
