@@ -129,43 +129,6 @@ sections:
           - mb-12
       actions:
         justifyContent: center
-  - elementId: ''
-    colors: colors-c
-    quote: |
-      ## Time to leave your desk. Let’s go flying!
-
-      Link
-    backgroundImage:
-      altText: ''
-      styles:
-        self:
-          opacity: 75
-    styles:
-      self:
-        height: screen
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-      title:
-        fontWeight: 400
-        fontStyle: normal
-        textAlign: left
-    type: QuoteSection
   - elementId: contact-form
     colors: colors-a
     title: Join our club
