@@ -88,7 +88,7 @@ sections:
       title:
         fontWeight: 400
         fontStyle: normal
-        textAlign: left
+        textAlign: center
     type: QuoteSection
   - type: FeaturedPostsSection
     elementId: ''
