@@ -184,7 +184,7 @@ sections:
       title:
         fontWeight: 700
         fontStyle: normal
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
     action: /.netlify/functions/submission_created
