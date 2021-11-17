@@ -56,7 +56,7 @@ sections:
       text:
         textAlign: center
       actions:
-        justifyContent: flex-start
+        justifyContent: center
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
