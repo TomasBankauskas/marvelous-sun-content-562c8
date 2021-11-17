@@ -83,7 +83,7 @@ sections:
         textAlign: center
       name:
         fontWeight: 400
-        fontStyle: centers
+        fontStyle: center
         textAlign: left
       title:
         fontWeight: 400
