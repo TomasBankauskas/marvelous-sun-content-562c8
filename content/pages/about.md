@@ -82,5 +82,6 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
+    
 layout: PageLayout
 ---
