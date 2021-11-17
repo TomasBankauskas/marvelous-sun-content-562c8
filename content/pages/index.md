@@ -187,7 +187,7 @@ sections:
         textAlign: center
         margin:
           - mt-36
-          - mb-24
+          - mb-12
       text:
         textAlign: center
         margin:
