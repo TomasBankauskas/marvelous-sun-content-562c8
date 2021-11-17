@@ -139,6 +139,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/dude-holding-fish.png
     title: All about the art of selling fish
     subtitle: Fresh. Better. Faster
     text: >-
