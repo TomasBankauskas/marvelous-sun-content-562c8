@@ -48,7 +48,7 @@ sections:
         textAlign: center
       subtitle:
         fontWeight: '400'
-        fontStyle: normal
+        fontStyle: center
         textAlign: left
         margin:
           - mt-8
