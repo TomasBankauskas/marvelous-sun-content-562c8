@@ -72,7 +72,43 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-        
+  - elementId: ''
+    colors: colors-c
+    quote: >
+      ### This is someone else, not from our team, but she also loves fishing, so
+      we thought we should highlight her.
+    backgroundImage:
+      url: /images/vidar-nordli-mathisen-q1aJHaFUurg-unsplash.jpg
+      altText: ''
+      styles:
+        self:
+          opacity: 75
+    styles:
+      self:
+        height: screen
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
   - elementId: contact-form
     colors: colors-a
     title: Join our club
