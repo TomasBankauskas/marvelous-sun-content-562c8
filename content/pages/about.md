@@ -41,7 +41,7 @@ sections:
           - mt-0
           - mb-8
       text:
-        textAlign: center
+        textAlign: left
     type: TextSection
 layout: PageLayout
 ---
