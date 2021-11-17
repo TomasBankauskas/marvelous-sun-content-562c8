@@ -14,7 +14,7 @@
     },
     "h3": {
         "weight": "normal",
-        "decoration": "underline",
+        "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
     },
