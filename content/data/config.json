@@ -34,7 +34,7 @@
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Join us",
+                "label": "Contact us",
                 "url": "/",
                 "altText": "Join us",
                 "style": "secondary"
