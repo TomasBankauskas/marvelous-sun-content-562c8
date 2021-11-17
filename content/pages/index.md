@@ -180,7 +180,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
       title:
         fontWeight: 700
         fontStyle: normal
