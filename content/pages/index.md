@@ -142,11 +142,9 @@ sections:
       url: /images/dude-holding-fish.png
     title: Time to leave your desk.Let’s go flying
     subtitle: Fresh. Better. Faster
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We’re local, seasonal fisherman, supporting fishing restrictions. We fish
+      what the sea has to offer, nothing more, and no cheating. 
     actions:
       - type: Button
         label: Get Started
