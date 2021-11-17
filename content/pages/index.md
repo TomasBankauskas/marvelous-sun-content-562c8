@@ -60,7 +60,7 @@ sections:
       ## “It’s great to see someone taking action while still maintaining a
       sustainbale fish supply to home cooks. ”
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
+    title: Head chef at Parks
     backgroundImage:
       url: /images/BG.png
       altText: Product Marketing Manager Quote
