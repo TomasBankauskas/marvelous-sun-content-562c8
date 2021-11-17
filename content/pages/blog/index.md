@@ -39,7 +39,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-a
-    title: Current offers
+    title: Upcoming adventures
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
