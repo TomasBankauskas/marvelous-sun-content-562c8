@@ -164,10 +164,6 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
-    feature:
-      type: ImageBlock
-      url: ''
-      altText: ''
     styles:
       self:
         height: auto
