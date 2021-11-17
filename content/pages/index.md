@@ -130,7 +130,7 @@ sections:
       actions:
         justifyContent: center
   - elementId: ''
-    colors: colors-g
+    colors: colors-i
     backgroundImage:
       altText: lorem-ipsum
       caption: lorem-ipsum
