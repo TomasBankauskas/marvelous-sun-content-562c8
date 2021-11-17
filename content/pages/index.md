@@ -54,6 +54,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+        
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
