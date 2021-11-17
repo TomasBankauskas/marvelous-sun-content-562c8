@@ -97,11 +97,7 @@ sections:
     text: >
       We’re local, seasonal fisherman, supporting fishing restrictions. We fish
       what the sea has to offer, nothing more, and no cheating. 
-    actions:
-      - type: Button
-        label: Try it now
-        url: /about
-        style: primary
+    actions: []
     styles:
       self:
         height: auto
