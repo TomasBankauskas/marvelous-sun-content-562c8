@@ -38,7 +38,8 @@
                 "url": "/",
                 "altText": "Contact us",
                 "style": "secondary",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowRight"
             }
         ],
         "styles": {
