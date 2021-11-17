@@ -131,9 +131,8 @@ sections:
         justifyContent: center
   - elementId: ''
     colors: colors-c
-    quote: >
-      ### This is someone else, not from our team, but she also loves fishing,
-      so we thought we should highlight her.
+    quote: |
+      ## Time to leave your desk. Let’s go flying!
     backgroundImage:
       url: /images/dude-holding-fish.png
       altText: ''
