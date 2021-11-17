@@ -3,7 +3,7 @@ title: About us
 sections:
   - elementId: ''
     colors: colors-a
-    title: The Section Title
+    title: About our business
     subtitle: The section subtitle
     text: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
