@@ -13,7 +13,7 @@
         "letterSpacing": "normal"
     },
     "h3": {
-        "weight": "bold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal"
