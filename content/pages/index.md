@@ -191,7 +191,7 @@ sections:
       text:
         textAlign: center
         margin:
-          - mt-36
+          - mt-12
           - mb-12
     action: /.netlify/functions/submission_created
     type: ContactSection
