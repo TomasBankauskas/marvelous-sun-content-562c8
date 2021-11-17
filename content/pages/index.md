@@ -56,8 +56,8 @@ sections:
         justifyContent: center
   - elementId: ''
     colors: colors-a
-    quote: >-
-      # It's great to see someone taking action while still maintaining a
+    quote: >
+      ## It's great to see someone taking action while still maintaining a
       sustainable fish supply.
     name: Johnna Doe
     title: Product Marketing Manager at Acme
