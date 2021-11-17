@@ -103,7 +103,7 @@ sections:
       - content/pages/blog/post-one.md
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
