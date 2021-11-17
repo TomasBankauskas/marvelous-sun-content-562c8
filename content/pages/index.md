@@ -83,11 +83,11 @@ sections:
         textAlign: center
       name:
         fontWeight: 400
-        fontStyle: center
+        fontStyle: normal
         textAlign: left
       title:
         fontWeight: 400
-        fontStyle: center
+        fontStyle: normal
         textAlign: left
     type: QuoteSection
   - type: FeaturedPostsSection
