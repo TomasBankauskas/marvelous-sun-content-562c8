@@ -131,7 +131,7 @@ sections:
         justifyContent: center
   - elementId: contact-form
     colors: colors-a
-    title: Contact us
+    title: Join our club
     text: We look forward to hearing from you.
     form:
       type: FormBlock
