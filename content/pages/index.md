@@ -132,7 +132,9 @@ sections:
   - elementId: contact-form
     colors: colors-a
     title: Join our club
-    text: We look forward to hearing from you.
+    text: >
+      We will notify you every time a shipment is heading to your neighbourhood,
+      and you could immediately let us know if you want in or not
     form:
       type: FormBlock
       elementId: contact-form
