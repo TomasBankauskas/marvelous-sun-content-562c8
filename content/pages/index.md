@@ -130,7 +130,7 @@ sections:
       actions:
         justifyContent: center
   - elementId: contact-form
-    colors: colors-c
+    colors: colors-a
     title: Contact us
     text: We look forward to hearing from you.
     form:
