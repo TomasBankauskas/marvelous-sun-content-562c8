@@ -82,6 +82,7 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
+    
   - elementId: contact-form
     colors: colors-a
     title: Join our club
