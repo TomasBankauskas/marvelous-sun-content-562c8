@@ -82,6 +82,42 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
+  - elementId: ''
+    colors: colors-c
+    quote: >-
+      # It's great to see someone taking action while still maintaining a
+      sustainable fish supply.
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: ''
+      altText: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
   - elementId: contact-form
     colors: colors-a
     title: Join our club
