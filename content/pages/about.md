@@ -83,7 +83,7 @@ sections:
           - mb-12
     type: FeaturedPeopleSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-c
     quote: >
       ## This is someone else, not from our team, but she also loves fishing, so
       we thought we should highlight her.
