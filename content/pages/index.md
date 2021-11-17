@@ -17,6 +17,7 @@ sections:
         url: /
         style: secondary
         showIcon: true
+        icon: arrowRight
     feature:
       type: ImageBlock
       url: /images/hero-image.png
