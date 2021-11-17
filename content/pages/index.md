@@ -54,7 +54,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-                margin:
+        margin:
           - mt-8
           - mb-8
   - type: FeaturedPostsSection
