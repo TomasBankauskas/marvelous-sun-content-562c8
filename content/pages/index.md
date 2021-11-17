@@ -186,7 +186,7 @@ sections:
         fontStyle: normal
         textAlign: center
       text:
-        textAlign: left
+        textAlign: center
     action: /.netlify/functions/submission_created
     type: ContactSection
 ---
