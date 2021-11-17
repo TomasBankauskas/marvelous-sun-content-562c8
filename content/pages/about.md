@@ -46,7 +46,7 @@ sections:
   - elementId: ''
     variant: variant-c
     colors: colors-a
-    title: About Us
+    title: Our team
     subtitle: Meet the team
     actions: []
     people:
