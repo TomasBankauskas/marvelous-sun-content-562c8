@@ -90,7 +90,7 @@ sections:
     backgroundImage:
       url: /images/vidar-nordli-mathisen-q1aJHaFUurg-unsplash.jpg
       altText: ''
-            styles:
+      styles:
         self:
           opacity: 100
     styles:
