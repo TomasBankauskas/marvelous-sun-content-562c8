@@ -157,10 +157,6 @@ sections:
         label: Learn More
         url: /
         style: secondary
-    feature:
-      type: ImageBlock
-      url: /images/hero-image.png
-      altText: Hero section image
     styles:
       self:
         height: screen
