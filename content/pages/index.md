@@ -141,9 +141,9 @@ sections:
       type: ImageBlock
       url: /images/dude-holding-fish.png
     title: Time to leave your desk.Let’s go flying
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      We’re local, seasonal fisherman, supporting fishing restrictions. We fish
+      what the sea has to offer, nothing more, and no cheating. 
     actions:
       - type: Button
         label: Try it now
