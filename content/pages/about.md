@@ -82,7 +82,55 @@ sections:
           - mt-0
           - mb-12
     type: FeaturedPeopleSection
-    
+  - elementId: ''
+    colors: colors-h
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+      url: /images/dude-holding-fish.png
+    title: Time to leave your desk.Let’s go flying
+    text: >
+      We’re local, seasonal fisherman, supporting fishing restrictions. We fish
+      what the sea has to offer, nothing more, and no cheating. 
+    actions:
+      - type: Button
+        label: Try it now
+        url: /about
+        style: primary
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: col
+      title:
+        fontWeight: 700
+        fontStyle: normal
+        textAlign: left
+        margin:
+          - mt-0
+          - mb-4
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
   - elementId: contact-form
     colors: colors-a
     title: Join our club
