@@ -72,6 +72,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+        
   - elementId: contact-form
     colors: colors-a
     title: Join our club
