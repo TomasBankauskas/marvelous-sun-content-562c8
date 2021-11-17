@@ -94,7 +94,7 @@ sections:
     elementId: ''
     variant: variant-a
     colors: colors-a
-    title: Services & Experiences
+    title: Upcoming adventures
     subtitle: 'Like we said, it''s more than just fishing'
     actions:
       - type: Button
