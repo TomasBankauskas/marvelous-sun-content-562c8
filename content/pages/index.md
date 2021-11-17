@@ -140,7 +140,7 @@ sections:
           opacity: 100
       type: ImageBlock
       url: /images/dude-holding-fish.png
-    title: Let's do this
+    title: Time to leave your desk.Let’s go flying
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
