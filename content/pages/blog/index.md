@@ -75,8 +75,8 @@ sections:
   - elementId: ''
     colors: colors-c
     quote: >
-      ### This is someone else, not from our team, but she also loves fishing,
-      so we thought we should highlight her.
+      ### “I couldn’t believe how fun walking up at 5am could be.  Would
+      definitely consider doing this again”.
     backgroundImage:
       url: /images/gary-tresize-fffsh5XnyTI-unsplash.jpg
       altText: ''
