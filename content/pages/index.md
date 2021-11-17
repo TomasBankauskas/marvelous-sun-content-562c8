@@ -54,6 +54,42 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+  - elementId: ''
+    colors: colors-a
+    quote: >-
+      # It's great to see someone taking action while still maintaining a
+      sustainable fish supply.
+    name: Johnna Doe
+    title: Product Marketing Manager at Acme
+    backgroundImage:
+      url: /images/bg.png
+      altText: Product Marketing Manager Quote
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: left
+    type: QuoteSection
   - type: FeaturedPostsSection
     elementId: ''
     variant: variant-a
