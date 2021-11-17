@@ -92,7 +92,7 @@ sections:
       altText: ''
       styles:
         self:
-          opacity: 70
+          opacity: 75
     styles:
       self:
         height: screen
