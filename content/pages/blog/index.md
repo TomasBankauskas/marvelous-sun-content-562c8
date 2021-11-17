@@ -78,7 +78,7 @@ sections:
       ### This is someone else, not from our team, but she also loves fishing,
       so we thought we should highlight her.
     backgroundImage:
-      url: /images/vidar-nordli-mathisen-q1aJHaFUurg-unsplash.jpg
+      url: /images/gary-tresize-fffsh5XnyTI-unsplash.jpg
       altText: ''
       styles:
         self:
