@@ -133,6 +133,8 @@ sections:
     colors: colors-c
     quote: |
       ## Time to leave your desk. Let’s go flying!
+
+      Link
     backgroundImage:
       url: /images/dude-holding-fish.png
       altText: ''
