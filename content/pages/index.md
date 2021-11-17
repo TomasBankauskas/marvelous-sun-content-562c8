@@ -16,6 +16,7 @@ sections:
         label: Learn More
         url: /
         style: secondary
+        showIcon: true
     feature:
       type: ImageBlock
       url: /images/hero-image.png
