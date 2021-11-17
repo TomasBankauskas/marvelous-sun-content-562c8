@@ -4,7 +4,6 @@ sections:
   - elementId: ''
     colors: colors-a
     title: About our business
-    subtitle: The section subtitle
     text: >
       For us fishing is a life style. The connection to the waters is what makes
       us friends, and what makes us a family and it what makes us a business. 
