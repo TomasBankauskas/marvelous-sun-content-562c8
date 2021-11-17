@@ -139,6 +139,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
+      url: /images/dude-holding-fish.png
     title: Time to leave your desk.Let’s go flying
     text: >
       We’re local, seasonal fisherman, supporting fishing restrictions. We fish
