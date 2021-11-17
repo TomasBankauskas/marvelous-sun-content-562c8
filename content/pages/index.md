@@ -57,8 +57,8 @@ sections:
   - elementId: ''
     colors: colors-a
     quote: >
-      ## It's great to see someone taking action while still maintaining a
-      sustainable fish supply.
+      ## “It’s great to see someone taking action while still maintaining a
+      sustainbale fish supply to home cooks. ”
     name: Johnna Doe
     title: Product Marketing Manager at Acme
     backgroundImage:
