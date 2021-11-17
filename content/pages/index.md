@@ -96,11 +96,7 @@ sections:
     colors: colors-a
     title: Upcoming adventures
     subtitle: 'Like we said, it''s more than just fishing'
-    actions:
-      - type: Button
-        label: View all
-        url: /
-        style: primary
+    actions: []
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
