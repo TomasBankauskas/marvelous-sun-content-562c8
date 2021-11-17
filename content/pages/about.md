@@ -5,13 +5,13 @@ sections:
     colors: colors-a
     title: About our business
     subtitle: The section subtitle
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      For us fishing is a life style. The connection to the waters is what makes
+      us friends, and what makes us a family and it what makes us a business. 
+
+
+      We’re believe there’s a better, more sustainable way to live out of what
+      the sea has to offer, while  keeping our products fresh and delicious. 
     styles:
       self:
         height: auto
