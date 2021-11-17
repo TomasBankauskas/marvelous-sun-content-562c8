@@ -131,24 +131,15 @@ sections:
         justifyContent: center
   - elementId: ''
     colors: colors-c
+    quote: >
+      ### This is someone else, not from our team, but she also loves fishing, so
+      we thought we should highlight her.
     backgroundImage:
-      altText: lorem-ipsum
-      caption: lorem-ipsum
-      elementId: ''
+      url: /images/vidar-nordli-mathisen-q1aJHaFUurg-unsplash.jpg
+      altText: ''
       styles:
         self:
-          opacity: 100
-      type: ImageBlock
-      url: /images/dude-holding-fish.png
-    title: Time to leave your desk.Let’s go flying
-    text: >
-      We’re local, seasonal fisherman, supporting fishing restrictions. We fish
-      what the sea has to offer, nothing more, and no cheating. 
-    actions:
-      - type: Button
-        label: Try it now
-        url: /about
-        style: primary
+          opacity: 75
     styles:
       self:
         height: screen
@@ -160,24 +151,21 @@ sections:
           - mr-0
         padding:
           - pt-36
-          - pb-36
+          - pb-4
           - pl-4
           - pr-4
-        alignItems: center
         justifyContent: center
-        flexDirection: col
-      title:
-        fontWeight: 700
+      quote:
+        textAlign: left
+      name:
+        fontWeight: 400
         fontStyle: normal
         textAlign: left
-        margin:
-          - mt-0
-          - mb-4
-      text:
+      title:
+        fontWeight: 400
+        fontStyle: normal
         textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: CtaSection
+    type: QuoteSection
   - elementId: contact-form
     colors: colors-a
     title: Join our club
