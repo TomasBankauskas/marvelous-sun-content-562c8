@@ -20,7 +20,7 @@ sections:
         icon: arrowRight
     feature:
       type: ImageBlock
-      url: /images/hero-image.png
+      url: /images/fredrik-ohlander-CbeApl8sxxw-unsplash.jpg
       altText: Hero section image
     styles:
       self:
