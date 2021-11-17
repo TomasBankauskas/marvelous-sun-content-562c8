@@ -136,7 +136,6 @@ sections:
 
       Link
     backgroundImage:
-      url: /images/dude-holding-fish.png
       altText: ''
       styles:
         self:
