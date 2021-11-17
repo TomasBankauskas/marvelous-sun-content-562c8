@@ -54,7 +54,7 @@ sections:
           - mt-8
           - mb-8
       text:
-        textAlign: left
+        textAlign: center
       actions:
         justifyContent: flex-start
   - type: FeaturedPostsSection
