@@ -1,7 +1,7 @@
 {
     "type": "Config",
     "header": {
-        "headerVariant": "variant-a",
+        "headerVariant": "variant-c",
         "primaryColors": "colors-b",
         "secondaryColors": "colors-i",
         "title": "Small Business",
